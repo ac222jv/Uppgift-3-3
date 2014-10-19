@@ -1,1 +1,50 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
+#container{
+    margin-left:5%;
+    margin-right:5%;
+    max-width:960px;
+}
+#topbar{
+
+    height:300px;
+    background-color:#51473d;
+}
+
+#menu{
+   background-color:#51473d;
+}
+
+ul li {
+    float:left;
+    
+
+}
+
+#maincontent{
+    width:560px;
+    float:left;
+    height:500px;
+    background-color:#eae7d2;
+    
+    
+}
+
+#subcontent{
+
+    width:400px;
+   float:left;
+   height:500px;
+   background-color:#eae7d2;
+}
+
+#bottomcontent {
+
+    float:left;
+    width:956px;
+    background-color:#eae7d2;
+}
+
+ul, li, a {
+    list-style-type:none;
+    text-decoration:none;
+}
