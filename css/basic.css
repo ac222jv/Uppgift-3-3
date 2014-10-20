@@ -6,13 +6,18 @@
 }
 #topbar{
 
-    height:250px;
+    height:220px;
     background-color:#51473d;
     color:#eae7d2;
-}
-#topbar{
+    text-align:right;
+    background-position: 0 15px;
+    background-image:url(pics/coffey.jpg);
+    background-repeat:no-repeat;
+    background-size: 960px 220px;
+    
     
 }
+
 
 #menu{
    background-color:#51473d;
@@ -75,6 +80,7 @@ color:#9e808b;
    height:500px;
    background-color:#eae7d2;
    border-left:1px dashed gray;
+   line-height:30px;
    }
 
 #bottomcontent {
@@ -89,6 +95,5 @@ h1 {
     color:#797066;
 } 
 
-#topbar p{
-    float:right;
-}
+
+
