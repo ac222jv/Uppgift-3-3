@@ -70,11 +70,12 @@ color:#9e808b;
 
 #subcontent{
 
-    width:400px;
+   width:396px;
    float:left;
    height:500px;
    background-color:#eae7d2;
-}
+   border-left:1px dashed gray;
+   }
 
 #bottomcontent {
 
