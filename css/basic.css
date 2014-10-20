@@ -10,8 +10,8 @@
     background-color:#51473d;
     color:#eae7d2;
 }
-#topbar text{
-    float:right;
+#topbar{
+    
 }
 
 #menu{
@@ -52,6 +52,13 @@
     color:#9e808b;
     background-color:#eae7d2;
 }
+
+#menu ul .active a {
+Background-color:#eae7d2;
+color:#9e808b;
+    
+}
+
 
 #maincontent{
     width:560px;
